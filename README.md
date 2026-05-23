@@ -1,2 +1,1 @@
-# Mi-proyecto
-Sistema de gestión de residuos reciclables
+EcoVida-Backend
